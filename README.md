@@ -1,12 +1,11 @@
 ##  💫 About Me:
 
 - 👋 Hi, I’m @Shambhavi
-- 👀 I’m interested in coding,problem-solving,web and app development,AI and machine learning,cybersecurity,cloud computing and other booming technologies.
+- 👀 I’m interested in coding,problem solving, web and app development,AI and ML,cybersecurity,cloud computing and other booming technologies.
 - 🌱 I’m currently learning and studying computer science engineering.
-- 💞️ I’m looking to collaborate on open source projects,hackathons,community and tech events etc.
+- 💞️ I’m looking to collaborate on projects,hackathons,community and tech events etc.
   
   
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Shambhavi966@gmail.com) 
 [![X](https://img.shields.io/badge/X-1DA1F2style=flat&logo=X&logoColor=white)](https://x.com/CodeAuraaa)
