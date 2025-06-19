@@ -1,7 +1,7 @@
 ##  💫 About Me:
 
 - 👋 Hi, I’m @Shambhavi
-- 👀 I’m interested in coding,problem solving, web and app development,AI and ML,cybersecurity,cloud computing and other booming technologies.
+- 👀 I’m interested in coding,problem solving,web and app development,AI and ML,cloud computing,datascience and other booming technologies.
 - 🌱 I’m currently learning and studying computer science engineering.
 - 💞️ I’m looking to collaborate on projects,hackathons,community and tech events etc.
   
