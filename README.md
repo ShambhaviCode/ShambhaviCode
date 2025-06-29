@@ -8,7 +8,8 @@
 Socials 💌:
 
 [![X](https://img.shields.io/badge/X-style=flat&logo=twitter&logoColor=white)](https://x.com/CodeAuraaa)  
-[![Email](https://img.shields.io/badge/Email-style=flat&logo=gmail&logoColor=white)](shambhavi966@gmail.com)
+
+(https://img.shields.io/badge/Email-style=flat&logo=gmail&logoColor=white)](shambhavi966@gmail.com)
 
 
 
