@@ -6,8 +6,9 @@
 - 💞️ I’m looking to collaborate on projects,hackathons,community and tech events etc.
   
 Socials 💌:
+
 [![X](https://img.shields.io/badge/X-style=flat&logo=twitter&logoColor=white)](https://x.com/CodeAuraaa)  
-[![Email](https://img.shields.io/badge/Email-Mail%20Me-red?style=flat&logo=gmail&logoColor=white)](shambhavi966@gmail.com)
+[![Email](https://img.shields.io/badge/Email-style=flat&logo=gmail&logoColor=white)](shambhavi966@gmail.com)
 
 
 
