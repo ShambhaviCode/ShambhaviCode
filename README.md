@@ -5,7 +5,10 @@
 - 🌱 I’m currently learning and studying computer science engineering.
 - 💞️ I’m looking to collaborate on projects,hackathons,community and tech events etc.
   
-  
+## 🌐 Socials:
+
+[![X](https://img.shields.io/badge/X-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/CodeAuraaa)  
+📧 mkshambhavi966@gmail.com  
 
 
 # 💻 Tech Stack:
