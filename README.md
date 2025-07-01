@@ -7,7 +7,7 @@
   
 Socials 💌:
 
-[![✉️ Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:shambhavi966@gmail.com)
+
 
 [![X](https://img.shields.io/badge/X-@CodeAuraaa-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/CodeAuraaa)
 
