@@ -16,6 +16,8 @@ Social 💌
 
 [![Email](https://img.shields.io/badge/📧-Email-red)](mailto:mkshambhavi966@gmail.com)
 
+[![X](https://img.shields.io/badge/-X-black?logo=twitter&logoColor=white)](https://x.com/CodeAuraaa)
+
 
 
 
