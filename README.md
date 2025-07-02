@@ -12,9 +12,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=ShambhaviCode&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShambhaviCode&theme=radical&hide_border=false)<br/>
 
-#Social 💌
+Social 💌
 
-![Email Badge](https://img.shields.io/badge/📧-mkshambhavi966@gmail.com-blue)
+[![Email](https://img.shields.io/badge/📧-Email-red)](mailto:mkshambhavi966@gmail.com)
+
+
 
 
 ## 🏆 GitHub Trophies
