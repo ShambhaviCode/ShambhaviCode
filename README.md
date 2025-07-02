@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ShambhaviCode&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShambhaviCode&theme=radical&hide_border=false)<br/>
 
-Social ❤️
+ ❤️ Social :
 
 [![📧](https://img.shields.io/badge/-📧-white)](mailto:mkshambhavi966@gmail.com)&nbsp;&nbsp;[![X](https://img.shields.io/badge/-X-black?logo=twitter&logoColor=white)](https://x.com/ShambhaviCode)
 
