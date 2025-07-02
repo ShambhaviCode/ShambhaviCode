@@ -12,6 +12,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=ShambhaviCode&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShambhaviCode&theme=radical&hide_border=false)<br/>
 
+#Social 💌
+
+![Email Badge](https://img.shields.io/badge/📧-mkshambhavi966@gmail.com-blue)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShambhaviCode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
