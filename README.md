@@ -14,9 +14,8 @@
 
 Social 💌
 
-[![Email](https://img.shields.io/badge/📧-Email-red)](mailto:mkshambhavi966@gmail.com)
+[![📧](https://img.shields.io/badge/-📧-red)](mailto:mkshambhavi966@gmail.com)&nbsp;&nbsp;[![X](https://img.shields.io/badge/-X-black?logo=twitter&logoColor=white)](https://x.com/ShambhaviCode)
 
-[![X](https://img.shields.io/badge/-X-black?logo=twitter&logoColor=white)](https://x.com/CodeAuraaa)
 
 
 
