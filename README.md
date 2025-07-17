@@ -15,16 +15,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ShambhaviCode&theme=radical&hide_border=false)<br/>
 
 
-
-
-# ❤️ Social :
-
-[![📧](https://img.shields.io/badge/-📧-white)](mailto:mkshambhavi966@gmail.com)&nbsp;&nbsp;[![X](https://img.shields.io/badge/-X-black?logo=twitter&logoColor=white)](https://x.com/ShambhaviCode)
-
-
-
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShambhaviCode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
