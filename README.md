@@ -63,11 +63,6 @@ Welcome to my GitHub! Let’s connect, grow, learn, and share the  knowledge tog
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShambhaviCode/ShambhaviCode/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShambhaviCode/ShambhaviCode/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ShambhaviCode/ShambhaviCode/output/github-snake.svg" />
-</picture>
 
 
 
