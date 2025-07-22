@@ -1,7 +1,7 @@
 ##  💫 About Me:
 
 
-👋🏻 Hey, I’m @Shambhavi — a curious mind with a love for all things tech.
+👋🏻 Hey, I’m @Shambhavi , a curious mind with a love for all things tech.
 
 🚀 Passionate about coding, problem solving, and building impactful solutions in web & app development, AI/ML, cloud computing, and data science.
 
