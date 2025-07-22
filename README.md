@@ -35,8 +35,9 @@
 
 
 
-
 ### 👥 Visitor Count
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShambhaviCode)
+<p align="center">
+  <img src="https://img.shields.io/badge/Visitor%20Count-1000%2B-blue?style=for-the-badge&logo=github" alt="Visitor Count: 1000+ views" />
+</p>
 
