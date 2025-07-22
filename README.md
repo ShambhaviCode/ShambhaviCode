@@ -1,9 +1,15 @@
 ##  💫 About Me:
 
-- 👋 Hi, I’m @Shambhavi
-- 👀 I’m interested in coding,problem solving,web and app development,AI and ML,cloud computing,datascience and other booming technologies.
-- 🌱 I’m currently learning and studying computer science engineering.
-- 💞️ I’m looking to collaborate on projects,hackathons,community and tech events etc.
+
+👋🏻 Hey, I’m @Shambhavi — a curious mind with a love for all things tech.
+
+🚀 Passionate about coding, problem solving, and building impactful solutions in web & app development, AI/ML, cloud computing, and data science.
+
+🌱 A lifelong learner, currently pursuing Computer Science Engineering and growing my skills every day.
+
+🤝🏻 Always open to collaborating on projects, hackathons, communities, and tech events that make a difference.
+
+✨ Let’s connect and create something amazing together!
   
 
 # 💻 Tech Stack:
