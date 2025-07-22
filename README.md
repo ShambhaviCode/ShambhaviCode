@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/indranil143/indranil143/main/assets/header.png" alt="Pixel Art" />
+</p>
+
+
+
+
 ##  💫 About Me :
 
 
