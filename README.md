@@ -17,8 +17,9 @@
 ##  💌 Social :
 
 
-[![Mail](https://img.shields.io/badge/Mail-_-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkshambhavi966@gmail.com)
-[![X](https://img.shields.io/badge/X-_-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/IamShambhaviiii)
+
+[![Mail](https://img.shields.io/badge/Email-mkshambhavi966@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkshambhavi966@gmail.com)
+[![X](https://img.shields.io/badge/X-@IamShambhavi-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/IamShambhaviiii)
 
 
 
