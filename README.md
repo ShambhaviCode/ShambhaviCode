@@ -37,5 +37,5 @@
 ### 👥 Visitor Count
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShambhaviCode&style=flat-square&text=Profile%20Views" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=ShambhaviCode&style=flat-square&color=blue" alt="Profile views" />
 </p>
