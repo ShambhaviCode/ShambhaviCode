@@ -6,6 +6,8 @@
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Shambhavi </h1>
 
+Welcome to my GitHub! Let’s connect, grow, learn, and share knowledge together! 
+
 
 
 
