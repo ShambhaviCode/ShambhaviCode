@@ -1,4 +1,4 @@
-##  💫 About Me:
+##  💫 About Me :
 
 
 👋🏻 Hey, I’m @Shambhavi , a curious mind with a love for all things tech.
