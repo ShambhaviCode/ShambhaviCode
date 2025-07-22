@@ -33,9 +33,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 ### 👥 Visitor Count
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShambhaviCode&style=flat-square&color=blue" alt="Profile views" />
-</p>
+![Visitor Count](https://profile-counter.glitch.me/ShambhaviCode/count.svg)
+
