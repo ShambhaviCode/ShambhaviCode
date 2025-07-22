@@ -16,14 +16,10 @@
 
 
 
-<p align="left">
-  <a href="mailto:mkshambhavi966@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-mkshambhavi966@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/IamShambhaviiii" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/X-@IamShambhaviiii-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-</p>
+
+
+[![Email](https://img.shields.io/badge/Email-mkshambhavi966@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkshambhavi966@gmail.com)
+[![X](https://img.shields.io/badge/X-@IamShambhavi-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/IamShambhavi)
 
 
 
