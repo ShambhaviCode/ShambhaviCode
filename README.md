@@ -33,7 +33,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+
+
 ### 👥 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/ShambhaviCode/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShambhaviCode)
 
