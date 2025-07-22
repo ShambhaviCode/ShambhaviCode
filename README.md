@@ -21,7 +21,8 @@
 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkshambhavi966@gmail.com)
-[![X](https://img.shields.io/badge/X-@IamShambhavi-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/IamShambhaviiii)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/IamShambhavi)
+
 
 
 
