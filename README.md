@@ -36,4 +36,6 @@
 
 ### 👥 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/ShambhaviCode/count.svg)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShambhaviCode&style=flat-square&text=Profile%20Views" alt="Visitor Count" />
+</p>
