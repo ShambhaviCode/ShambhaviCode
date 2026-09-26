@@ -39,6 +39,19 @@ Welcome to my GitHub! Let’s connect, grow, learn, and share the  knowledge tog
 
 
 
+## 🚀 Featured Projects :
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [**VEIL**](https://github.com/ShambhaviCode/veil) · [live](https://veil-zeta-rosy.vercel.app) | Report campus incidents as a verified member without revealing who you are, with a tamper-evident audit trail | Node.js · Midnight Compact |
+| [**ResQ AI**](https://github.com/ShambhaviCode/ResQ-AI) · [live](https://resq-ai-tau.vercel.app) | Disaster response platform where citizens report incidents and coordinators triage and manage them | Next.js · Supabase · Mapbox · Gemini |
+| [**Genesis**](https://github.com/ShambhaviCode/Genesis) · [live](https://genesis-five-mu.vercel.app) | Turns a startup idea into a launch plan using coordinated AI agents for research, brand, pricing and marketing | Next.js · Gemini |
+| [**SnapStash**](https://github.com/ShambhaviCode/snapstash) | Snippet manager to save and instantly find text, links and code | React Native · Expo · RevenueCat |
+| [**RailOps**](https://github.com/ShambhaviCode/RailOps-Enterprise-DBMS-Hackathon) · [live](https://rail-ops-enterprise-dbms.vercel.app) | Railway operations system for trains, routes, schedules, staff, reports and operational insights | Flask · SQLAlchemy · AWS Lambda |
+
+Smaller builds: [ExpenseIQ](https://github.com/ShambhaviCode/ExpenseIQ) ([live](https://expense-iq-ten.vercel.app/)) · [BlossomCalc](https://github.com/ShambhaviCode/BlossomCalc) ([live](https://blossom-calc.vercel.app)) · [TicTac Pro](https://github.com/ShambhaviCode/TicTac-Pro) ([live](https://tic-tac-pro-nu.vercel.app/))
+
+
 ### 💻 Tech Stack :
 
 
