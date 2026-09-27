@@ -64,9 +64,6 @@ Smaller builds: [ExpenseIQ](https://github.com/ShambhaviCode/ExpenseIQ) ([live](
 
 
 
-## 🏆 GitHub Trophies :
-
-![](https://github-profile-trophy.vercel.app/?username=ShambhaviCode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
