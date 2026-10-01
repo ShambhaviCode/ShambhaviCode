@@ -40,7 +40,13 @@ Welcome to my GitHub! Let’s connect, grow, learn, and share the  knowledge tog
 
   
 
+## 📬 Connect
 
+[
+
+![Email](https://skillicons.dev/icons?i=gmail)
+
+](mailto:mkshambhavi966@gmail.com)
 
 
 
