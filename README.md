@@ -58,17 +58,6 @@ Welcome to my GitHub! Let’s connect, grow, learn, and share the  knowledge tog
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 💌 Connect
-
-<a href="mailto:mkshambhavi966@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" width="40" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/shambhavi-m-k-1b6677378">
-  <img src="https://cdn.simpleicons.org/linkedin" width="40" />
-</a>
-
-
 
 
 
