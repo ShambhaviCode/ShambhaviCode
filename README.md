@@ -42,12 +42,6 @@ Welcome to my GitHub! Let’s connect, grow, learn, and share the  knowledge tog
 
 
 
-<a href="mailto:mkshambhavi966@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40" />
-</a>
-
-
-
 
 
 
